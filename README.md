@@ -1,11 +1,11 @@
-# 🇲🇦 Assistant Administratif Marocain
+#  Assistant Administratif Marocain
 
 A **Streamlit-based AI assistant** designed to help users navigate Moroccan administrative procedures.  
 This project leverages **OpenAI embeddings and LangChain** for document search and question-answering.
 
 ---
 
-## 🗂️ Features
+## Features
 
 - Ask questions about Moroccan administrative operations (e.g., CNIE renewal, document requirements, fees).  
 - Context-aware responses using vector search over a JSON dataset of official documents.  
@@ -13,7 +13,7 @@ This project leverages **OpenAI embeddings and LangChain** for document search a
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Python 3.12+**
 - **Streamlit** – for the interactive web app
